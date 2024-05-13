@@ -7,7 +7,7 @@ export default function Post() {
         <div className="texts">
         <h2>Full--house battery backup coming later this year</h2>
         <p className="info">
-          <a className="author">David paszko</a>
+          <a href="https://google.com" className="author">David paszko</a>
           <time>2024-05-12 07:48</time>
         </p>
         <p>Today at its special launch envent, home backup power giant EcoFlow launched a 
